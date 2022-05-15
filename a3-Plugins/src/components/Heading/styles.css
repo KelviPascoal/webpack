@@ -1,0 +1,9 @@
+.main-title {
+    font-family: sans-serif;
+    color: #fff;
+    background-color: rgb(193, 37, 185);
+    border-radius: 0.8rem;
+    height: 2.4rem;
+    padding: 0 1.6rem;
+    text-align: center;
+}
